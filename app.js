@@ -1,16 +1,17 @@
-console.log(__dirname) - find directory name
-console.log(__filename) - find file name
+function callFunction(fun){
+    fun();
+}
 
+// normal function statement
+// function sayHi(){
+//     console.log('hi')
+// }
 
-// var time = 0;
+// sayHi();
 
-// var timer = setInterval(function(){
-//     time += 2;
-//     console.log(time + 'seconds have passed');
-//     if (time > 5){
-//         clearInterval(timer);
-//     }
-// }, 2000);
+// function expression
+var sayBye = function(){
+    console.log('bye');
+};
 
-
-    
+callFunction(sayBye);  
