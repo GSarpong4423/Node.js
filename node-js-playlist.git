@@ -41,7 +41,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="93D0:5774:A01B4A:13CB5B5:5C204024" data-pjax-transient>
+  <meta name="request-id" content="A898:5776:16C0D49:299EE2F:5C2041D5" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="93D0:5774:A01B4A:13CB5B5:5C204024" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="A898:5776:16C0D49:299EE2F:5C2041D5" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
 
 
@@ -70,11 +70,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NWM1YmQ3Y2JiNjE4Mjc2MmI5NzBmMDM2Y2U3ZDNjMDJmNjQyOTE0OWRhNjRkYmM2MDk5OGYyNzRlMmE0NTYyY3x7InJlbW90ZV9hZGRyZXNzIjoiMTA0LjE1NC4xNTYuMjIiLCJyZXF1ZXN0X2lkIjoiOTNEMDo1Nzc0OkEwMUI0QToxM0NCNUI1OjVDMjA0MDI0IiwidGltZXN0YW1wIjoxNTQ1NjE3NDQ1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NjY2Yzg5YTgzNmU3Y2EzNjAyYTZkOTg2ZjMxZWM4YWI4NDAwYjFiM2YyNmRkZmViNGM3ZDM1ZmVmMmZhNGY4Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTA0LjE1NC4xNTYuMjIiLCJyZXF1ZXN0X2lkIjoiQTg5ODo1Nzc2OjE2QzBENDk6Mjk5RUUyRjo1QzIwNDFENSIsInRpbWVzdGFtcCI6MTU0NTYxNzg3NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR">
 
-  <meta name="html-safe-nonce" content="17e3d20e920f8818360e1952a4897fec596829e7">
+  <meta name="html-safe-nonce" content="04561b831f9d04ae8e48cb53191dd509fb4c1920">
 
   <meta http-equiv="x-pjax-version" content="dcf479d97247df77ce4929e5f45d2480">
   
@@ -254,7 +254,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=oJjkG16JAasCMig8r8RDyfDd0FemFVuLeqm5E7nSk9/FMK2TB5nS6EbCz9UkhxCEK0d0vDvg7y//JzyyDTI07w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=GPuVMSlKNbqMefHOkMxJRk8m6Jn2Vpap+Yz7XRoY6w0zu0dG0UBuoikKu9AMhvx8EU866oxFOScehsMqgx2Riw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -518,7 +518,7 @@
       <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2BrvNoBvkidSyTV5PokCuq0BzTUwhelAv4c88VCPP1va/ooLy4gtLL2BNFXTMrweeMo/KLupRNcfwtVhjPasaw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PI3or4IhuKD0rkzNRkK3Ls+SkDUAPrS8mTCj1uyntksiC0LCsB9RAEute4+taDrwX2fWu69AmobrTCKo9L/BHA==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
@@ -575,15 +575,13 @@
 
 
           <li>
-              <a href="/iamshaunjp/node-js-playlist/graphs/contributors">
-  <svg class="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4z"/></svg>
-    <span class="num text-emphasized">
-      1
-    </span>
-    contributor
-</a>
-
-          </li>
+              <include-fragment src="/iamshaunjp/node-js-playlist/contributors_size">
+                <a href="/iamshaunjp/node-js-playlist/graphs/contributors">
+                  <svg class="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4z"/></svg>
+                  <span class="num text-emphasized"></span>
+                  Fetching contributors
+                </a>
+</include-fragment>          </li>
 
       </ul>
 
@@ -988,7 +986,7 @@ All files have been tested.</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.19767s from unicorn-88979dc6d-k68jf">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.20548s from unicorn-9875f4c5-5c72q">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
